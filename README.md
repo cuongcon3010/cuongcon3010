@@ -2,7 +2,7 @@
 <h3 align="center">A student developer from Viet Nam</h3>
 <img align = "right" alt="hello" width"400" src="https://media.tenor.com/kzNbRXeTt6IAAAAM/arknights-seseren.gif">
 
-- 🔭 I’m currently working on **DAU**
+- 🔭 I’m currently studying on **DAU**
 
 - 🌱 I’m currently learning **Unity, Vite, React, Androi**
 
